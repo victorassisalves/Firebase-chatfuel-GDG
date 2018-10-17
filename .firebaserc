@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "onsurance-co",
+    "GDG Cafezinho": "gdg-firebase-chatbot"
+  }
+}
