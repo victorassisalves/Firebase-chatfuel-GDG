@@ -5,13 +5,7 @@ const requestApi = require("request");
 
 // Initialize Firebase
 var config = {
-    apiKey: "Minha chave de API",
-    authDomain: "gdg-firebase-chatbot.firebaseapp.com",
-    databaseURL: "https://gdg-firebase-chatbot.firebaseio.com",
-    projectId: "gdg-firebase-chatbot",
-    storageBucket: "gdg-firebase-chatbot.appspot.com",
-    messagingSenderId: "ID Cloud Messaging",
-    timestampsInSnapshots: true
+    //Firebase configuration
   };
   admin.initializeApp(config);
 
